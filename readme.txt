@@ -1,4 +1,5 @@
-=== Service Checker By Rifky Maulana ===
+=== Service Area Checker By Rifky Maulana ===
 Created by: Rifky Maulana
-Description: This plugin created for checking if inputed data is inside KML zone or not.
+Description: This plugin helps your user to check if they are inside your service area or not
+Version:: 1.0.0
 
