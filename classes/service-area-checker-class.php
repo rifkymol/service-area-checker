@@ -58,7 +58,7 @@ class Service_Area_Checker {
             <div>
                 <h2>Service Area Checker Settings</h2>
                 <h3>Configure the settings for Service Area Checker plugin</h3>
-                <p>Generate page by using [service_area_checker] shortcode</p>
+                <p>Generate page by using [service-area-checker] shortcode</p>
                 <p>You can input the kml file by uploading or input the url file below</p>
             </div>
             <div>
@@ -80,7 +80,7 @@ class Service_Area_Checker {
                             <p><strong>Action URL Outside KML Zone</strong></p>
                             <input type="text" name="url_outside_kml" class="regular-text" value="<?php echo $url_outside_kml; ?>" required>
                         </div>
-                    </div>
+                    </div>`
                     <div>
                         <strong>
                             <p>Current File : <?php echo $kml_url; ?></p>
